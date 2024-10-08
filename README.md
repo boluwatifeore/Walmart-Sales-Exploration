@@ -61,13 +61,10 @@ The data analysis focused on several questions to understand Walmart's sales tre
 Pivot tables were used to visualize sales by various categories, enabling deeper insights into the relationships between these external factors and sales performance.
 
 ```Excel
-=IF(G2>10%,"High Discount",IF(G2>=1%,"Low discount","No Discount"))
+=IFS(D2=0,"No Holiday",D2=1,"Holiday")
 ```
 ```Excel
-=IF(I2>=150,"Very High Spend",IF(I2>=100,"High Spend",IF(I2>=50,"Medium Spend",IF(I2<50,"Low Spend"))))
-```
-```Excel
-=TEXT(C2:C30001,"mmm")
+=IFS(F190<50,"Cold Weather",F190<90,"Moderate Weather",F190>90,"Hot Weather")
 ```
 
 ### Findings
