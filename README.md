@@ -40,7 +40,7 @@ These variables provided the necessary information to explore how external envir
 The primary goal of this project was to understand how external factors affect Walmart's sales and provide data driven and actionable recommendations for improving sales performance. The specific objectives were:
 
 1. Analyze Sales Trends by Temperature: This helps to investigate how different weather conditions influence consumer behavior and sales performance.
-2. Examine the Effect of Fuel Price on Sales: This helpsto understand how fluctuating fuel costs influence consumer purchasing power.
+2. Examine the Effect of Fuel Price on Sales: This helps to understand how changing fuel prices influence consumer purchasing power.
 3. Examine Sales Performance during Inflation Periods: This helps to identify the interaction between inflation rates and consumer spending at Walmart.
 4. Explore Seasonal Trends and Monthly Sales: This helps to understand which months consistently drive the highest sales and which periods require marketing promotions.
 
