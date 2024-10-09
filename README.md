@@ -11,7 +11,6 @@ An Exploration of external factors influencing Walmart Sales from 2010-2012
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
 
 
 ## Project Overview
